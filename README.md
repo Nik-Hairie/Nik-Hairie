@@ -5,6 +5,13 @@ Python
 
 SQL
 
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Data Analysis</b>
+  - [COVID-19 ANALYSIS](https://github.com/Nik-Hairie/Covid19Analysis)
+  - [FLIGHT DELAY ANALYSIS](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
+
+
 <h2>🌱 I’m currently learning how to utilize my programming skills for a career.</h2>
 
 <h2>♟️ I like playing chess and solving chess puzzles</h2>
