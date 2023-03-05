@@ -8,7 +8,7 @@ SQL
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [COVID-19 ANALYSIS](https://github.com/Nik-Hairie/Covid19Analysis)
+  - [COVID-19 ANALYSIS](https://github.com/Nik-Hairie/Covid-19-Analysis)
   - [FLIGHT DELAY ANALYSIS](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
 
 
