@@ -1,14 +1,12 @@
 <h1>Hi, I'm Nik Hairie! <br/><a href="https://github.com/Nik-Hairie">Github</a>, <a href="https://www.linkedin.com/in/nikhairie2000/">LinkedIn</a></h1>
 
-<h2>🔭 I’m currently working on improving my programming skills.</h2>
-Python
+<h2>🔭 I’m currently looking for an internship based on data analysis.</h2>
 
-SQL
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [COVID-19 ANALYSIS](https://github.com/Nik-Hairie/Covid-19-Analysis)
+  - [COVID-19 ANALYSIS (MSSQL)](https://github.com/Nik-Hairie/Covid-19-Analysis)
   - [FLIGHT DELAY ANALYSIS](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
 
 
