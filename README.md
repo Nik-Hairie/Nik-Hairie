@@ -7,6 +7,7 @@
 
 - <b>Data Analysis</b>
   - [COVID-19 ANALYSIS (MSSQL)](https://github.com/Nik-Hairie/Covid-19-Analysis)
+  - [Lichess PUZZLE DATABASE ANALYSIS (EXCEL)](https://github.com/Nik-Hairie/Lichess-Puzzle-Database-Analysis)
   - [FLIGHT DELAY ANALYSIS](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
 
 
