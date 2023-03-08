@@ -6,9 +6,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [COVID-19 ANALYSIS (MSSQL)](https://github.com/Nik-Hairie/Covid-19-Analysis)
-  - [Lichess PUZZLE DATABASE ANALYSIS (EXCEL)](https://github.com/Nik-Hairie/Lichess-Puzzle-Database-Analysis)
-  - [FLIGHT DELAY ANALYSIS](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
+  - [Covid-19 Analysis (MSSQL)](https://github.com/Nik-Hairie/Covid-19-Analysis)
+  - [Lichess Puzzle Database Analysis (EXCEL)](https://github.com/Nik-Hairie/Lichess-Puzzle-Database-Analysis)
+  - [Flight Delay Analysis](https://github.com/Nik-Hairie/Flight-Delay-Analysis)
 
 
 <h2>🌱 I’m currently learning how to utilize my programming skills for a career.</h2>
