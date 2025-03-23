@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nik Hairie! <br/><a href="https://github.com/Nik-Hairie">Github</a>, <a href="https://www.linkedin.com/in/nikhairie2000/">LinkedIn</a></h1>
 
-<h2>🔭 I’m currently looking for an internship based on data analysis.</h2>
+<h2>🔭 I’m currently looking for an opportunity that is based on data analysis.</h2>
 
 
 <h2>👨‍💻 Projects:</h2>
